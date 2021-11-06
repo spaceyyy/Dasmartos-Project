@@ -16,7 +16,7 @@ Codecademy Web Design Project
 
 A web design project brought to you by Codecademy. In this project you create a fictional arts and crafts store
 that sells related products such as paints, frames, brushes, and other artsy type related items. This one page
-simple website is powered by HTML and and CSS.
+simple website is powered by HTML and and CSS. Link for the Dasmartos Project: [dasmartos-project](https://spaceyyy.github.io/Dasmartos/Dasmartos_codecademy_html_and_css_project.html)
 
 ### Technologies
 
@@ -28,8 +28,8 @@ simple website is powered by HTML and and CSS.
 
 ### Examples of use
 
-![frontPage](images/firstPictureofWebsite.png)
-![LastPictureofFrontPage](images/SecondPictureofWebsite.png)
+![firstPictureofWebsite](https://user-images.githubusercontent.com/18295073/140620362-4f9515ae-7271-4646-97da-78e8fd550879.PNG)
+![SecondPictureofWebsite](https://user-images.githubusercontent.com/18295073/140620390-ba04a843-a248-45f0-9ff0-9df87bd87ab7.PNG)
 
 ### Project Status
 
